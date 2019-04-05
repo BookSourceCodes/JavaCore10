@@ -22,3 +22,4 @@ Chapter03
 
 Chapter04
     01. CalendarTest                            ==> 使用LocalDate类——显示当前月份的日历
+    02. EmployeeTest                            ==> 自定义类——Employee类的实现
