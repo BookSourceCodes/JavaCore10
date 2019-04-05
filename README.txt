@@ -18,3 +18,5 @@ Chapter03
     06. BigIntegerTest                          ==> 使用BigInteger——采用大数值计算抽奖中奖的概率
     07. LotteryDrawing                          ==> 使用Array.sort()进行数组排序——对抽彩游戏中的随机数值组合排序
     08. CompoundInterest                        ==> 使用二维数组——打印利息表
+    09. LotteryArray                            ==> 使用不规则数组——打印Balances数组
+    
