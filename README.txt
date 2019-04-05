@@ -25,3 +25,4 @@ Chapter04
     02. EmployeeTest                            ==> 自定义类——Employee类的实现
     03. StaticTest                              ==> 类静态方法的使用——为Employee类添加一个静态方法
     04. ParamTest                               ==> 方法参数的注意事项
+    05. ConstructorTest                         ==> 类的构造函数——为Employee类创建不同的构造函数
