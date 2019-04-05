@@ -11,4 +11,5 @@ Chapter02
 
 Chapter03
     01. FirstSample                             ==> 打印一行字符串——演示文档注释的用法
+    02. InputTest                               ==> 使用Scanner获取键盘输入
     
