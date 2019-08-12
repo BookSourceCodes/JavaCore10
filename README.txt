@@ -30,3 +30,4 @@ Chapter04
 Chapter05
     01. inheritance                             ==> 类继承
     02. abstractClasses                         ==> 抽象类
+    03. equals                                  ==> 重写父类equals、hasCode和toString方法
