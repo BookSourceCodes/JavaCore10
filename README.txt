@@ -34,3 +34,4 @@ Chapter05
     04. ArrayList                               ==> ArrayList的使用
     05. enums                                   ==> 枚举的使用
     06. reflection                              ==> 使用反射
+    07. objectAnalyzer                          ==> 对象分析
