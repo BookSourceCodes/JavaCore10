@@ -46,3 +46,4 @@ Chapter06
     05. innerClass                              ==> 内部类
     06. anonymousInnerClass                     ==> 匿名内部类
     07. staticInnerClass                        ==> 静态内部类
+    08. proxy                                   ==> 代理
