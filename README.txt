@@ -40,3 +40,4 @@ Chapter05
 
 Chapter06
     01. interfaces                              ==> 实现Comparable接口
+    02. timer                                   ==> Timer定时器和接口回调
