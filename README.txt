@@ -45,3 +45,4 @@ Chapter06
     04. lambda                                  ==> lambda表达式的语法
     05. innerClass                              ==> 内部类
     06. anonymousInnerClass                     ==> 匿名内部类
+    07. staticInnerClass                        ==> 静态内部类
