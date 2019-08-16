@@ -35,3 +35,4 @@ Chapter05
     05. enums                                   ==> 枚举的使用
     06. reflection                              ==> 使用反射
     07. objectAnalyzer                          ==> 对象分析
+    08. arrays                                  ==> 数组拷贝
