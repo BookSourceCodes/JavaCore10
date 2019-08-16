@@ -37,3 +37,6 @@ Chapter05
     07. objectAnalyzer                          ==> 对象分析
     08. arrays                                  ==> 数组拷贝
     09. methods                                 ==> 反射调用方法
+
+Chapter06
+    01. interfaces                              ==> 实现Comparable接口
