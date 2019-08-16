@@ -43,3 +43,5 @@ Chapter06
     02. timer                                   ==> Timer定时器和接口回调
     03. clone                                   ==> 实现Cloneable接口
     04. lambda                                  ==> lambda表达式的语法
+    05. innerClass                              ==> 内部类
+    
