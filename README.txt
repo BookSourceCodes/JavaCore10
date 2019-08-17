@@ -47,3 +47,7 @@ Chapter06
     06. anonymousInnerClass                     ==> 匿名内部类
     07. staticInnerClass                        ==> 静态内部类
     08. proxy                                   ==> 代理
+
+Chapter07
+    01. stackTrace                              ==> 分析堆栈轨迹元素
+    
